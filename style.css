@@ -1,0 +1,26 @@
+header{
+	background: white;
+}
+body{
+	background: #f1f1f1;
+}
+.check {
+	opacity: 0;
+	padding: 7px;
+	top: -8px;
+	left: 5px;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color:#00BCD4;
+	color: white;
+}
+.blue{
+	background: #00bcd4;
+	color: white;
+}
+.bela{
+	height: 800px;
+	background: white;
+}
